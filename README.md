@@ -140,7 +140,7 @@ Open the address in your web browser to use the chatbot.
 
 The chatbot is deployed using Streamlit Community Cloud.
 
-👉 Live Application: [Add your Streamlit URL here]
+👉 Live Application: https://yosef-technology-faq-chatbot.streamlit.app/
 
 💡 Example Questions
 
